@@ -8,5 +8,5 @@ Languages I use:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs)](https://skillicons.dev)  
 Languages I learn:  
 ![](https://skillicons.dev/icons?i=cpp)  
-IDEs I use:  
+Editors I use:  
 ![](https://skillicons.dev/icons?i=neovim,idea,visualstudio)
