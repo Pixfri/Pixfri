@@ -10,4 +10,8 @@ Languages I use:
 Languages I learn:  
 ![](https://skillicons.dev/icons?i=cpp)  
 Editors I use:  
-![](https://skillicons.dev/icons?i=neovim,idea,visualstudio)
+![](https://skillicons.dev/icons?i=idea,vscode,visualstudio)
+
+My Social Medias
+![](https://skillicons.dev/icons?i=twitter) ![Twitter](https://twitter.com/@Pixfri4)
+![](https://skillicons.dev/icons?i=discord) Barraque à Pixfrites
