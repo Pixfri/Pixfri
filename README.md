@@ -1,5 +1,9 @@
-#### Hey there, I'm Pixfri, here's my presentation:
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+# Hey there 💻:
+![](https://komarev.com/ghpvc/?username=Pixfri&color=brightgreen&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Pixfri?label=Follow&color=lightgreen&style=flat-square&logo=GitHub)
+
+### I'm Pixfri, A Java, C, C++ and C# developer
+I'm curently learning C++ but also OpenGL
 
 ## My stats:  
 ![Github stats of Pixfri](https://github-readme-stats.vercel.app/api?username=Pixfri&show_icons=true&theme=gruvbox)  
