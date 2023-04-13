@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Pixfri?label=Follow&color=lightgreen&style=flat-square&logo=GitHub)
 
 ### I'm Pixfri, A Java and C++ developer
-I'm curently learning C++ and the OpenGL specification
+I'm curently learning C++ and Vulkan
 
 ## My stats:  
 ![Github stats of Pixfri](https://github-readme-stats.vercel.app/api?username=Pixfri&show_icons=true&theme=gruvbox)  
