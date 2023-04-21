@@ -11,6 +11,8 @@ I'm curently learning C++ and Vulkan
 
 ## My main programming languages:  
 [![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)  
+## Technologies I'm currently learning
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 ## Editors I use:  
 ![](https://skillicons.dev/icons?i=idea)  
 (I also use [CLion](https://www.jetbrains.com/clion/) for C++ but the icon is not available)
