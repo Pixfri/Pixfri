@@ -11,7 +11,7 @@
 ## My main programming languages:  
 [![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)  
 ## Technologies I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
 ## Editors I use:  
 ![](https://skillicons.dev/icons?i=idea)  
 and other IDEs from JetBrains
