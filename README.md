@@ -13,5 +13,5 @@
 ## Technologies I'm currently learning
 [![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
 ## Editors I use:  
-![](https://skillicons.dev/icons?i=idea)  
+![](https://skillicons.dev/icons?i=idea,neovim)  
 and other IDEs from JetBrains
