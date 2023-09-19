@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HaribOS<br>🌱 I’m currently learning C# and OSDev
+🔭 I’m currently learning graphics programming<br>
 
 
 ## 🌐 Socials:
