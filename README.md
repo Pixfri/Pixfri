@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning graphics programming<br>
+🔭 I’m currently learning graphics programming.<br>
 
 
 ## 🌐 Socials:
