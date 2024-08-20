@@ -78,4 +78,4 @@ jobs:
           build_dir: dist
           keep_history: no
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
