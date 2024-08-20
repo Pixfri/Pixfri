@@ -4,4 +4,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Metrics](/github-metrics.svg)
+[![Metrics](/github-metrics.svg)](https://github.com/Pixfri/)
