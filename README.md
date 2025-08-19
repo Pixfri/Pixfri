@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Letessier</h1>
 <h3 align="center">I'm a self-taught graphics programmer from France</h3>
 
-- 🔭 I’m currently working on [Tungsten Engine, my own game engine](https://github.com/Pixfri/Tungsten)
+- 🔭 I’m currently working on [Tungsten Engine, my own game engine](https://github.com/TungstenEngine/Tungsten)
 
 - 🌱 I’m currently learning **Vulkan**
 
